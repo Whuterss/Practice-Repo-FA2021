@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Abby Falikson
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Analytics 
 
-- Course 2
+- Calculus 2
 
-- Course 3
+- Intro to Programming Using Python 
 
-- Course 4
+- Cloud Infrastructures
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Drawing/Doodling
 
-- Thing 2
+- Cartoons
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Roblox as shown in this website <https://www.roblox.com>
+
+![Insert Fortnite Joke](https://c.tenor.com/7moFdeJ9MhUAAAAM/roblox-dancing.gif)
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/07
