@@ -24,6 +24,13 @@ I am _passionate about_:
 
 ![Insert Fortnite Joke](https://c.tenor.com/7moFdeJ9MhUAAAAM/roblox-dancing.gif)
 
+|Prefix     |Number    |Name                                      |  Credits  |
+|:---------:|:--------:|:----------------------------------------:|:---------:|
+| **MAC**   |**2312**  | *Analytic Geometry and Calculus 2*       |    4      |
+|**COP**    |**2034**  |*Introduction to Programming Using Python*|   3       |
+|**COP**    |**2073**  |*Introduction to Data Science*            |     3     |
+|**CTS**    |**2375**  |*Cloud Infrastructure and Services*       |      3    |
+
 ***
 
-> Last modified: 2021/09/07
+> Last modified: 2021/09/21
